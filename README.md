@@ -10,4 +10,6 @@ Execute os seguintes comandos
   
 ```npm start```
 
+```npx cypress open```
+
 ...
